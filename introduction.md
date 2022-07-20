@@ -2,11 +2,19 @@ JavaScript is a cross-platform, object-oriented scripting language used to make 
 
 ## What JavaScript can do?
 • Updating the content dynamically
+
 • Manipulating HTML and CSS
+
 • Animating images, and contents
+
 • Manipulating and Validating Data
+
 • Controlling Multimedia (Audio, Video, Etc.)
+
 • Web Browser Games
+
 • Mobile Apps
+
 • Smartwatch Apps
+
 • Server Applications
